@@ -1,0 +1,27 @@
+{
+  "name": "personal-finance-api",
+  "version": "1.0.0",
+  "description": "RESTful API for personal finance management built with Node.js, TypeScript and Express",
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finance",
+    "api",
+    "rest",
+    "typescript",
+    "express"
+  ],
+  "author": "Igor Chaves Donegá",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichavesbr/personal-finance-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ichavesbr/personal-finance-api/issues"
+  },
+  "homepage": "https://github.com/ichavesbr/personal-finance-api#readme"
+}
