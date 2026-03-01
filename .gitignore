@@ -30,17 +30,11 @@ logs/
 *.log
 
 # ============================================
-# DATABASE
+# ORM
 # ============================================
-# PostgreSQL dumps
-*.sql
-*.dump
-*.db
-*.sqlite
-*.sqlite3
-
-# Prisma (planned)
+# Prisma
 prisma/migrations/**/*.backup
+generated/prisma
 
 # ============================================
 # TESTING
